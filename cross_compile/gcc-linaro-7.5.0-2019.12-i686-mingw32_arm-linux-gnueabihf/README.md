@@ -1,0 +1,1 @@
+需自己下载符合自己硬件的linaro交叉编译工具包,然后对应调整toolchain.cmake中的内容
